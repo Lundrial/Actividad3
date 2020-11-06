@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Actividad3</string>
+    <string-array name="arrayspinner">
+        <item>Objeto 1</item>
+        <item>Objeto 2</item>
+        <item>Objeto 3</item>
+    </string-array>
+</resources>
